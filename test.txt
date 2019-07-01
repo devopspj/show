@@ -1,3 +1,0 @@
-Directories, or ‘working directories’ are projects at their current state in time.
-
- git branch --unset-upstream"
